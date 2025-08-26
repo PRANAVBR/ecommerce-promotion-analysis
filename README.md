@@ -20,6 +20,6 @@ The analysis concludes with a strong recommendation to **halt both promotions** 
 
 ## How to Use This Repository
 
-1.  Clone the repository: 'git clone https://github.com/PRANAVBR/ecommerce-promotion-analysis.git`
-2.  The main analysis is in the 'project 1.ipynb' Jupyter Notebook.
+1.  Clone the repository: git clone `https://github.com/PRANAVBR/ecommerce-promotion-analysis.git`
+2.  The main analysis is in the `project 1.ipynb` Jupyter Notebook.
 3.  The final interactive dashboard is in the `project1.pbix` file.
